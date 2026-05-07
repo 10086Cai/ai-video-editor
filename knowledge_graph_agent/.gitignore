@@ -1,0 +1,7 @@
+output/
+knowledge_graph.json
+knowledge_graph.dot
+knowledge_graph.mmd
+__pycache__/
+*.pyc
+*.pyo
