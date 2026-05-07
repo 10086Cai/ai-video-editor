@@ -1,0 +1,9 @@
+output/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+*.mp4
+!output/.gitkeep
+!logs/.gitkeep
+.env
